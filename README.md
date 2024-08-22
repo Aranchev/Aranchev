@@ -6,12 +6,14 @@ check out
 
 sertificates
 
+softuni courses
+
 projects
 
-> it looks like i have to make projects so i can have something on github, that people can look at
+> it looks like i have to make projects so i can have something on github, that people can look at. Make them easy to be used from other peopls.
 > > Miguel's ting
 > > My webscraping project
-> > Softuni Courses
+> > Dictionary creator?
 
 languages anchor
 
