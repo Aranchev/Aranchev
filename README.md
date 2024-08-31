@@ -1,5 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aranchev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="Aranchev :: Visitor's Count" />
+
 
 ![windows](https://skillicons.dev/icons?i=windows&theme=dark)
 ![py](https://skillicons.dev/icons?i=py&theme=dark)
