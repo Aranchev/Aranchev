@@ -10,9 +10,6 @@
 ![latex](https://skillicons.dev/icons?i=latex&theme=dark)
 
 
-<img src="https://profile-counter.glitch.me/{Aranchev}/count.svg" alt="Aranchev :: Visitor's Count" />
-
-
 <!--check out 
 > [Kalkovski's github front page](https://github.com/Georgi-Kalkovski)
 
