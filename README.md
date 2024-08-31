@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aranchev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aranchev&size_weight=0.5&count_weight=0.5)
 
 
 ![windows](https://skillicons.dev/icons?i=windows&theme=dark)
