@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aranchev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://profile-counter.glitch.me/{Aranchev}/count.svg" alt="Aranchev :: Visitor's Count" />
 
 
 ![windows](https://skillicons.dev/icons?i=windows&theme=dark)
@@ -12,6 +11,7 @@
 ![latex](https://skillicons.dev/icons?i=latex&theme=dark)
 
 
+<img src="https://profile-counter.glitch.me/{Aranchev}/count.svg" alt="Aranchev :: Visitor's Count" />
 
 
 <!--check out 
