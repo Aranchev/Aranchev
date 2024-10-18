@@ -16,7 +16,7 @@
 [Python Basics](https://softuni.bg/certificates/details/224233/4648f3fc)
 
 
-# Vim Configurations [vim](https://skillicons.dev/icons?i=vim&theme=dark)
+# Vim Configurations ![vim](https://skillicons.dev/icons?i=vim&theme=dark)
 [HERE](https://github.com/Aranchev/vimfiles)
 
 
