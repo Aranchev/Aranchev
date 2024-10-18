@@ -1,6 +1,6 @@
 # ![py](https://skillicons.dev/icons?i=py&theme=dark) Python 
 
-## Softuni
+## Software University
 
 |Basics|Fundamentals|
 ----------|---|
