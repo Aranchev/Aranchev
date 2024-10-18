@@ -1,4 +1,4 @@
-# Python ![py](https://skillicons.dev/icons?i=py&theme=dark)
+# ![py](https://skillicons.dev/icons?i=py&theme=dark) Python 
 
 ## Softuni
 
@@ -16,7 +16,7 @@
 [Python Basics](https://softuni.bg/certificates/details/224233/4648f3fc)
 
 
-# Vim Configurations ![vim](https://skillicons.dev/icons?i=vim&theme=dark)
+# ![vim](https://skillicons.dev/icons?i=vim&theme=dark) Vim Configurations 
 [HERE](https://github.com/Aranchev/vimfiles)
 
 
