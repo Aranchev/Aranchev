@@ -41,4 +41,11 @@ languages anchor
 
 tech stack
 > see what you know
-> see what'll come out on the tech chart -->
+> see what'll come out on the tech chart 
+
+It's a good idea to also do the
+'Figures Drawing' from the Programming Basics (Softuni)
+
+-->
+
+
