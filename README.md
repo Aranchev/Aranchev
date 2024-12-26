@@ -8,7 +8,7 @@
 |[Conditional Statements](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/02.%20Conditional%20Statements)|[Data Types and Variables](https://github.com/Aranchev/SoftUni/tree/main/Python/02.%20Programming%20Fundamentals/02.%20Data%20Types%20and%20Variables)|
 |[Conditional Statements (Advanced)](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/03.%20Conditional%20Statements%20(Advanced))| [List Basics](https://github.com/Aranchev/SoftUni/tree/main/Python/02.%20Programming%20Fundamentals/03.%20Lists%20Basics)
 |[For Loops](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/04.%20For%20Loops)|[Functions](https://github.com/Aranchev/pytest_fundamental/tree/main/src/_04_functions)|
-|[While Loops](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/05.%20While%20Loops)|
+|[While Loops](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/05.%20While%20Loops)|[List Advanced](https://github.com/Aranchev/pytest_fundamental/tree/main/src/_05_list_adv)|
 |[Nested Loops](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/06.%20Nested%20Loop)|
 |[Exams](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/07.%20Exams/Preliminary%20Exam%20(17.08.2024))|
 
