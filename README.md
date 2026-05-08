@@ -10,6 +10,7 @@
 |[Nested Loops](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/06.%20Nested%20Loop)|[Mid Exams](https://github.com/Aranchev/pytest_fundamental/tree/main/src/mid_exams)|
 |[Exams](https://github.com/Aranchev/SoftUni/tree/main/Python/01.%20Programming%20Basics/07.%20Exams/Preliminary%20Exam%20(17.08.2024))|[Objects and Classes](https://github.com/Aranchev/pytest_fundamental/tree/main/src/_06_objects_classes)|
 ||[Dictionaries](https://github.com/Aranchev/pytest_fundamental/tree/main/src/_07_dictionaries)|
+||[Text Processing](https://github.com/Aranchev/pytest_fundamental/tree/main/src/_08_txt_processing)|
 
 
 
